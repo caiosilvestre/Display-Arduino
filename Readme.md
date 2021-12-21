@@ -2,6 +2,7 @@
 ## Projeto Utilizando arduino com Linguagem AVR
 
 [![N|Arduino](https://cdn.arduino.cc/homepage/static/media/arduino-UNO.bcc69bde.png)](https://www.arduino.cc/)
+![image](https://user-images.githubusercontent.com/39228803/146850264-41bc8cab-5a69-4b4d-858a-aa13aa249710.png)
 
 
 ## Componentes:
@@ -220,6 +221,7 @@ float estado_botao()
   return temp;
 }
 ```
+![image](https://user-images.githubusercontent.com/39228803/146850344-91e16da2-39cb-4af6-a543-77e6f08c141f.png)
 **Free Code!**
 
 
